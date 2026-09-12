@@ -1,4 +1,4 @@
-Proyecto Around.
+Proyecto Around Red Social de Viajes.
 1. Nombre del proyecto:
 Proyecto Around pruebas manuales.
 
