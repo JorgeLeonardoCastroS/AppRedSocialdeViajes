@@ -8,3 +8,4 @@ Descripción: Ejecución de pruebas funcionales en una aplicación de transporte
 
 ## herramientas como JIRA, DevTools y Figma.
 
+<img width="943" height="961" alt="image" src="https://github.com/user-attachments/assets/2329e19f-98b9-4698-9b62-c411d0c3d62f" />
