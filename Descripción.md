@@ -1,3 +1,10 @@
-AppRedSocialdeViajes
-Pruebas Funcionales para una App de Red Social de Viajes | Bootcamp Tripleten (2026) Descripción: Ejecución de pruebas funcionales en una aplicación de transporte en línea, validando el flujo de usuario, detección de errores y reporte de incidencias para garantizar una experiencia sin errores. • Habilidades destacadas: Pruebas funcionales, UI Testing, informes de errores, documentación de casos de prueba, herramientas como JIRA, DevTools y Figma.
-https://private-user-images.githubusercontent.com/288070415/650600830-331be052-9050-42ea-9e94-197fef2a2539.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODkyNDE4NTEsIm5iZiI6MTc4OTI0MTU1MSwicGF0aCI6Ii8yODgwNzA0MTUvNjUwNjAwODMwLTMzMWJlMDUyLTkwNTAtNDJlYS05ZTk0LTE5N2ZlZjJhMjUzOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkxMlQxOTMyMzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZDI5MmUyYjc2ZjAxZTY1NDYyY2NhMmQ4OGQ4NDA0MmZmMDUxNTU1M2FiMDFlN2Y5ODhjNTkxNWNjZTA1ZmYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.JpRSb1Nv_CBQTxTHLLKsm7KYOXegjVE5rj0y7lhnZeY
+##AppRedSocialdeViajes
+
+#Pruebas Funcionales para una App de Red Social de Viajes | Bootcamp Tripleten (2026) 
+
+Descripción: Ejecución de pruebas funcionales en una aplicación de transporte en línea, validando el flujo de usuario, detección de errores y reporte de incidencias para garantizar una experiencia sin errores. 
+
+## • Habilidades destacadas: Pruebas funcionales, UI Testing, informes de errores, documentación de casos de prueba, 
+
+## herramientas como JIRA, DevTools y Figma.
+
