@@ -1,5 +1,7 @@
 #Proyecto Around Red Social de Viajes.
+
 ##1. Nombre del proyecto:
+
 Proyecto Around pruebas manuales.
 
 ##2. Descripción del proyecto:
